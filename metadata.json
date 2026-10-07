@@ -1,0 +1,6 @@
+{
+  "name": "Carpintersoft - Diseño 3D & Fabricación Digital de Muebles",
+  "description": "Plataforma arquitectónica para configuración paramétrica de carpintería a medida, renderizado 3D interactivo, corte CNC de alta precisión y cálculo de costes de producción en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
